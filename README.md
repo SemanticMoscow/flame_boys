@@ -1,4 +1,4 @@
 # flame_boys
-Opera Extension
+Browser extension
 LT;DR:
 simple clipboard demo extension
