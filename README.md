@@ -1,3 +1,3 @@
 # flame_boys is a browser extension
-LT;DR:
+TL;DR:
 simple clipboard demo extension
